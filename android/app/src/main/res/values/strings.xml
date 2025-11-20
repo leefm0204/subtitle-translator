@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">subtitle-translator</string>
+    <string name="title_activity_main">subtitle-translator</string>
+    <string name="package_name">com.subtitletranslator.app</string>
+    <string name="custom_url_scheme">com.subtitletranslator.app</string>
+</resources>

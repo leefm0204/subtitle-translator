@@ -13,6 +13,11 @@
   },
   "dependencies": {
     "@ant-design/nextjs-registry": "^1.2.0",
+    "@capacitor/android": "^7.4.4",
+    "@capacitor/cli": "^7.4.4",
+    "@capacitor/core": "^7.4.4",
+    "@capacitor/filesystem": "^7.1.4",
+    "@capacitor/toast": "^7.0.2",
     "@next/third-parties": "14.2.33",
     "antd": "^5.28.1",
     "compromise": "^14.14.4",

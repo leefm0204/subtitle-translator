@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://tools.newzone.top
+
+# Sitemaps
+Sitemap: https://tools.newzone.top/sitemap.xml
